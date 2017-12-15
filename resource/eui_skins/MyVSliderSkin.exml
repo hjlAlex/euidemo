@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="skins.MyVSliderSkin" minWidth="25" minHeight="30" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+    <e:Image id="track" source="track_png" scale9Grid="1,1,4,4" width="7" height="100%" top="0" horizontalCenter="0"/>
+	<e:Image id="fill" width="7" height="0" source="tracklight_png" scale9Grid="1,1,4,4" top="0" horizontalCenter="0"/>
+    <e:Image id="thumb" source="thumb_png" horizontalCenter="0" />
+</e:Skin>

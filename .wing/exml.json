@@ -1,0 +1,20 @@
+{
+    "16052ba2f4a": {
+        "guideLinesEnabled": true
+    },
+    "1605406dada": {
+        "path": "euiComponent\\LabelUI.ts",
+        "class": "LabelUI",
+        "parentPath": ""
+    },
+    "16054600720": {
+        "path": "euiComponent\\RadioDemo.ts",
+        "class": "RadioDemo",
+        "parentPath": ""
+    },
+    "16058b37a14": {
+        "path": "euiComponent\\ScrollList.ts",
+        "class": "ScrollList",
+        "parentPath": ""
+    }
+}

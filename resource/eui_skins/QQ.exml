@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="QQ" width="400" height="300" xmlns:e="http://ns.egret.com/eui"  states="q1,q2,q3" >
+	<e:Image source="q3_png" includeIn="q3" horizontalCenter="0" verticalCenter="0" scale9Grid="3,3,22,22" width="100" height="100"/>
+	<e:Image source="q2_png" includeIn="q2" horizontalCenter="0" verticalCenter="0" scale9Grid="3,3,22,22" width="100" height="100"/>
+	<e:Image source="q1_png" includeIn="q1" horizontalCenter="0" verticalCenter="0" scale9Grid="3,3,22,22" width="100" height="100"/>
+</e:Skin>

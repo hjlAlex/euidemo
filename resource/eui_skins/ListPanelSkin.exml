@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ListPanelSkin" width="640" height="960" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Scroller id="scroller" width="640" height="960" x="0" y="0">
+	    <e:List id="list" x="0" y="0" scaleX="1" scaleY="1" itemRendererSkinName="MyItemRender">
+            <e:layout>
+                <e:VerticalLayout horizontalAlign="justify"/>
+            </e:layout>
+        </e:List>
+	</e:Scroller>
+</e:Skin>

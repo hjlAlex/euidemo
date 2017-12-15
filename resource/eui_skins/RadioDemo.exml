@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RadioDemoSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<e:RadioButton id="xiaomi" label="小米" y="50" horizontalCenter="0" groupName="mobile" value="xiaomi"/>
+	<e:RadioButton id="huawei" label="华为" y="100" horizontalCenter="0" groupName="mobile" value="huaweimobile"/>
+	<e:RadioButton id="apple" label="苹果" y="150" horizontalCenter="0" groupName="mobile" value="applemobile"/>
+</e:Skin>
